@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BugTrackingApp</string>
+    <string name="fileprovider">fileprovider</string>
+    <string name="title_activity_one">ActivityOne</string>
+    <string name="title_activity_screenshot">ScreenshotActivity</string>
+
+</resources>
